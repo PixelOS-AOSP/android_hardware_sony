@@ -15,7 +15,7 @@ type sysfs_camera, fs_type, sysfs_type;
 type sysfs_dp, fs_type, sysfs_type;
 type sysfs_sects, fs_type, sysfs_type;
 type sysfs_tof_rgbcir, fs_type, sysfs_type;
-type sysfs_torch_brightness, fs_type, sysfs_type;
+type sysfs_torch, fs_type, sysfs_type;
 type sysfs_tsp, fs_type, sysfs_type;
 type sysfs_uim_ctrl, fs_type, sysfs_type;
 type tad_socket, file_type;
